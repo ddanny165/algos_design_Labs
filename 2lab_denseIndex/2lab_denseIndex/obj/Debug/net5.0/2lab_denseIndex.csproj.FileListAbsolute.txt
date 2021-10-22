@@ -1,0 +1,16 @@
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.exe
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.deps.json
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.runtimeconfig.json
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.runtimeconfig.dev.json
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.dll
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\ref\2lab_denseIndex.dll
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\bin\Debug\net5.0\2lab_denseIndex.pdb
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.csprojAssemblyReference.cache
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.AssemblyInfoInputs.cache
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.AssemblyInfo.cs
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.csproj.CoreCompileInputs.cache
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.dll
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\ref\2lab_denseIndex.dll
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.pdb
+C:\Users\moska\source\repos\2lab_denseIndex\2lab_denseIndex\obj\Debug\net5.0\2lab_denseIndex.genruntimeconfig.cache
