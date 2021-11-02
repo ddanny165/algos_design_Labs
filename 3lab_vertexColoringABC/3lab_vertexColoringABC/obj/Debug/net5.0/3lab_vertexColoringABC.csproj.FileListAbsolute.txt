@@ -1,0 +1,16 @@
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.exe
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.deps.json
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.runtimeconfig.json
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.runtimeconfig.dev.json
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.dll
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\ref\3lab_vertexColoringABC.dll
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\bin\Debug\net5.0\3lab_vertexColoringABC.pdb
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.csprojAssemblyReference.cache
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.AssemblyInfoInputs.cache
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.AssemblyInfo.cs
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.csproj.CoreCompileInputs.cache
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.dll
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\ref\3lab_vertexColoringABC.dll
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.pdb
+C:\Users\moska\source\repos\3lab_vertexColoringABC\3lab_vertexColoringABC\obj\Debug\net5.0\3lab_vertexColoringABC.genruntimeconfig.cache
