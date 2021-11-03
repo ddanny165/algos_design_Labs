@@ -167,9 +167,6 @@ namespace _3lab_vertexColoringABC
 
                 }
 
-                // Зменшуємо кількість фуражирів, оскільки 5 (згідно з варіантом) із них умовно стали розвідниками
-                numOfOnLookerBees -= numOfEmployedBees;
-
                 // Підраховуємо кількість усіх пофарбованих вершин 
                 foreach (var vertex in allVertices)
                 {
