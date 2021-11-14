@@ -1,0 +1,16 @@
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.exe
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.deps.json
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.runtimeconfig.json
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.runtimeconfig.dev.json
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.dll
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\ref\4lab_travelingSalesmanABC.dll
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\bin\Debug\net5.0\4lab_travelingSalesmanABC.pdb
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.csprojAssemblyReference.cache
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.AssemblyInfoInputs.cache
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.AssemblyInfo.cs
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.csproj.CoreCompileInputs.cache
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.dll
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\ref\4lab_travelingSalesmanABC.dll
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.pdb
+C:\Users\moska\source\repos\4lab_travelingSalesmanABC\4lab_travelingSalesmanABC\obj\Debug\net5.0\4lab_travelingSalesmanABC.genruntimeconfig.cache
