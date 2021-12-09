@@ -262,12 +262,14 @@ namespace _5lab_nimGameAlphaBetaPruning
 
         private static int EvaluateStateForEasyDiff(int[] State) 
         {
-            Random ran = new Random();
+            int Eval = 0;
 
-            int firstRan = ran.Next(0, 20);
-            int secondRan = ran.Next(-20, 10);
+            for (int i = 0; i < State.Length; i++)
+            {
+                Eval += State[i];
+            }
 
-            return firstRan - secondRan; 
+            return Eval;
         }
 
         public static int EvaluateState(int[] State)
