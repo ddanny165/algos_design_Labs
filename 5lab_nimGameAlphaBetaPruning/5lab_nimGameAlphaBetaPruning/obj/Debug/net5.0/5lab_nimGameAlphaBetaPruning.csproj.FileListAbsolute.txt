@@ -1,0 +1,16 @@
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.exe
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.deps.json
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.runtimeconfig.json
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.runtimeconfig.dev.json
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.dll
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\ref\5lab_nimGameAlphaBetaPruning.dll
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\bin\Debug\net5.0\5lab_nimGameAlphaBetaPruning.pdb
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.csproj.AssemblyReference.cache
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.AssemblyInfoInputs.cache
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.AssemblyInfo.cs
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.csproj.CoreCompileInputs.cache
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.dll
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\ref\5lab_nimGameAlphaBetaPruning.dll
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.pdb
+C:\Users\moska\source\repos\5lab_nimGameAlphaBetaPruning\5lab_nimGameAlphaBetaPruning\obj\Debug\net5.0\5lab_nimGameAlphaBetaPruning.genruntimeconfig.cache
