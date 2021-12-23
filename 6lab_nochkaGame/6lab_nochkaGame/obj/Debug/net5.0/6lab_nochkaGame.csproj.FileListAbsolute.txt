@@ -1,0 +1,16 @@
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.csproj.AssemblyReference.cache
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.AssemblyInfoInputs.cache
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.AssemblyInfo.cs
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.csproj.CoreCompileInputs.cache
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.exe
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.deps.json
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.runtimeconfig.json
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.runtimeconfig.dev.json
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.dll
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\ref\6lab_nochkaGame.dll
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\bin\Debug\net5.0\6lab_nochkaGame.pdb
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.dll
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\ref\6lab_nochkaGame.dll
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.pdb
+C:\Users\moska\source\repos\6lab_nochkaGame\6lab_nochkaGame\obj\Debug\net5.0\6lab_nochkaGame.genruntimeconfig.cache

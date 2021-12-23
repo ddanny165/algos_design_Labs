@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "6lab_nochkaGame/1.0.0": {
+        "runtime": {
+          "6lab_nochkaGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6lab_nochkaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
